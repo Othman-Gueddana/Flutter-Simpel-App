@@ -29,7 +29,6 @@
 .packages
 .pub-cache/
 .pub/
-/build/
 
 # Web related
 lib/generated_plugin_registrant.dart
@@ -39,3 +38,18 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+
+android
+kotlin
+ios
+lib
+test
+.metadata
+auth
+pubspec.lock
+pubspec.yaml
+.gitignore
+build/kotlin
+build/647fa92c23aa2689b9fc849e1b92e91e
+build/cache.dill.track.dill
+build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill
