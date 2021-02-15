@@ -35,7 +35,7 @@ This is a Flutter application that have 3 views "Welcome", "Medical Flowers", "D
       - Choosing module in the Gradle Project: `android` OR `IOS`,
       - Writing `assemble` in Tasks,
       - Running the app.
-   - You will find you APK File in :    
+   - You will find your APK File in :    
       ```
       ProjectName/
                build/
